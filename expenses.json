@@ -1,0 +1,12 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "date": "2024-10-07T21:42:51.37321+02:00",
+      "description": "GTA5",
+      "amount": 12,
+      "category": ""
+    }
+  ],
+  "next_id": 2
+}
